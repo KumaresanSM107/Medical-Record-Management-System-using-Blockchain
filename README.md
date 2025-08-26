@@ -2,6 +2,7 @@
 
 A robust and secure medical record management system built using a custom Python-based blockchain. It ensures that each patient’s data is immutable, cryptographically secured, and transparently recorded through a verifiable chain of trust. This project demonstrates how blockchain technology can be effectively applied in the healthcare domain for data integrity, security, and traceability.
 
+
 🚀 Features
 
 🔐 Tamper-proof medical records using SHA-256 hashing
@@ -16,13 +17,6 @@ A robust and secure medical record management system built using a custom Python
 
 🐍 100% Python, no external dependencies
 
-📂 Project Structure
-
-medical-record-blockchain/
-├── blockchain_medical.py # Main Python script
-├── README.md # Project documentation
-├── LICENSE # MIT License
-└── .gitignore # Ignore cache and environment files
 
 ▶️ Getting Started
 Requirements
@@ -40,6 +34,7 @@ Add new medical records
 View the blockchain ledger
 
 Verify blockchain integrity
+
 
 🧠 How It Works
 
@@ -59,6 +54,7 @@ Hash of the previous block
 
 Blocks are mined using a simplified Proof-of-Work algorithm, ensuring each record’s integrity and resistance to tampering.
 
+
 💡 Future Enhancements
 
 Add encryption for patient data privacy
@@ -71,9 +67,6 @@ Role-based access (doctor, admin, patient)
 
 Smart contract-based treatment automation
 
-📄 License
-
-This project is licensed under the MIT License — see the LICENSE file for details.
 
 🧾 Project Summary
 
